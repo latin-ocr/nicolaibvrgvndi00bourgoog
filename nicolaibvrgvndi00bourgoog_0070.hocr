@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./nicolaibvrgvndi00bourgoog_0070.png"; bbox 0 0 621 985; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 164 56 563 208">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 164 56 563 208">
+     <span class='ocr_line' id='line_1_1' title="bbox 164 56 488 105; baseline -0.003 -14"><span class='ocrx_word' id='word_1_1' title='bbox 164 56 198 105; x_wconf 46' lang='lat'>&#39;55¹</span> <span class='ocrx_word' id='word_1_2' title='bbox 236 69 345 99; x_wconf 38' lang='grc' dir='ltr'>Περ-σιμ</span> <span class='ocrx_word' id='word_1_3' title='bbox 358 71 488 100; x_wconf 61' lang='lat' dir='ltr'>an&#39;eyjqnl</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 183 104 563 157; baseline 0 -7"><span class='ocrx_word' id='word_1_4' title='bbox 183 129 192 150; x_wconf 76' lang='grc' dir='ltr'>π’</span> <span class='ocrx_word' id='word_1_5' title='bbox 206 106 387 157; x_wconf 48' lang='grc' dir='ltr'>Ἐῃᾷξηᾚκευω</span> <span class='ocrx_word' id='word_1_6' title='bbox 391 104 563 152; x_wconf 38' lang='lat' dir='ltr'>&amp;3:5³3ss</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 164 154 563 203; baseline 0 -19"><span class='ocrx_word' id='word_1_7' title='bbox 164 154 287 203; x_wconf 54' lang='lat' dir='ltr'>fffiwu</span> <span class='ocrx_word' id='word_1_8' title='bbox 290 161 364 184; x_wconf 51' lang='lat' dir='ltr'>5⁸⁶¹·ssoe</span> <span class='ocrx_word' id='word_1_9' title='bbox 370 154 477 184; x_wconf 63' lang='lat' dir='ltr'>s0¹=²=2a=³⁰⁸</span> <span class='ocrx_word' id='word_1_10' title='bbox 481 157 563 182; x_wconf 60' lang='lat' dir='ltr'>nandri-</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 199 179 457 208; baseline 0 -1"><span class='ocrx_word' id='word_1_11' title='bbox 199 179 396 208; x_wconf 51' lang='lat' dir='ltr'>ssflffifldqfibflfffffimoe</span> <span class='ocrx_word' id='word_1_12' title='bbox 402 179 457 207; x_wconf 43' lang='lat'>5⁶⁴²&amp;</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 158 551 557 780">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 158 551 557 780">
+     <span class='ocr_line' id='line_1_5' title="bbox 158 551 557 780; baseline 0 205"><span class='ocrx_word' id='word_1_13' title='bbox 158 551 557 780; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
